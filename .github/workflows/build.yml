@@ -47,4 +47,5 @@ jobs:
           cd UseCase-7
           dotnet clean
           dotnet build
+          cd ..
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
