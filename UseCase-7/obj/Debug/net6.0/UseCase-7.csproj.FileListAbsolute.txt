@@ -1,0 +1,12 @@
+D:\Study\SoftServe\UseCase #7\UseCase-7\bin\Debug\net6.0\UseCase-7.deps.json
+D:\Study\SoftServe\UseCase #7\UseCase-7\bin\Debug\net6.0\UseCase-7.dll
+D:\Study\SoftServe\UseCase #7\UseCase-7\bin\Debug\net6.0\ref\UseCase-7.dll
+D:\Study\SoftServe\UseCase #7\UseCase-7\bin\Debug\net6.0\UseCase-7.pdb
+D:\Study\SoftServe\UseCase #7\UseCase-7\obj\Debug\net6.0\UseCase-7.csproj.AssemblyReference.cache
+D:\Study\SoftServe\UseCase #7\UseCase-7\obj\Debug\net6.0\UseCase-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SoftServe\UseCase #7\UseCase-7\obj\Debug\net6.0\UseCase-7.AssemblyInfoInputs.cache
+D:\Study\SoftServe\UseCase #7\UseCase-7\obj\Debug\net6.0\UseCase-7.AssemblyInfo.cs
+D:\Study\SoftServe\UseCase #7\UseCase-7\obj\Debug\net6.0\UseCase-7.csproj.CoreCompileInputs.cache
+D:\Study\SoftServe\UseCase #7\UseCase-7\obj\Debug\net6.0\UseCase-7.dll
+D:\Study\SoftServe\UseCase #7\UseCase-7\obj\Debug\net6.0\ref\UseCase-7.dll
+D:\Study\SoftServe\UseCase #7\UseCase-7\obj\Debug\net6.0\UseCase-7.pdb
