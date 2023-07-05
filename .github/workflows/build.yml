@@ -43,8 +43,9 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          cd UseCase-7
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"Andriets_UseCase-7" /o:"andriiets" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          cd UseCase-7
           dotnet clean
           dotnet build
+          cd ../
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
