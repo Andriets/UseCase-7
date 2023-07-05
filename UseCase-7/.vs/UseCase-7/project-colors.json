@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee980d33-0350-428a-a834-12ed1946596c": {
+      "ProjectGuid": "ee980d33-0350-428a-a834-12ed1946596c",
+      "DisplayName": "UseCase-7",
+      "ColorIndex": 0
+    },
+    "d28c43f0-550f-4cbf-ac09-089a6f7b1d7d": {
+      "ProjectGuid": "d28c43f0-550f-4cbf-ac09-089a6f7b1d7d",
+      "DisplayName": "UseCase-7Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
