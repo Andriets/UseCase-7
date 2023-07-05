@@ -8,6 +8,7 @@ D:\Study\SoftServe\UseCase #7\UseCase-7Tests\bin\Debug\net6.0\xunit.runner.utili
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\bin\Debug\net6.0\UseCase-7Tests.deps.json
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\bin\Debug\net6.0\UseCase-7Tests.runtimeconfig.json
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\bin\Debug\net6.0\UseCase-7Tests.dll
+D:\Study\SoftServe\UseCase #7\UseCase-7Tests\bin\Debug\net6.0\ref\UseCase-7Tests.dll
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\bin\Debug\net6.0\UseCase-7Tests.pdb
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -96,7 +97,6 @@ D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\UseCase-7Tests.Ass
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\UseCase-7Tests.csproj.CoreCompileInputs.cache
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\UseCase-7Tests.csproj.CopyComplete
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\UseCase-7Tests.dll
-D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\refint\UseCase-7Tests.dll
+D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\ref\UseCase-7Tests.dll
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\UseCase-7Tests.pdb
 D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\UseCase-7Tests.genruntimeconfig.cache
-D:\Study\SoftServe\UseCase #7\UseCase-7Tests\obj\Debug\net6.0\ref\UseCase-7Tests.dll
